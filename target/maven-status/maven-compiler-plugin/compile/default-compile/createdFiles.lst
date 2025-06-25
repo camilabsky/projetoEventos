@@ -1,0 +1,16 @@
+br/edu/ceub/controller/ParticipanteController.class
+br/edu/ceub/service/EventoService.class
+br/edu/ceub/persistence/models/LocalModel.class
+br/edu/ceub/persistence/models/ParticipanteModel.class
+br/edu/ceub/service/LocalService.class
+br/edu/ceub/repository/ParticipanteRepository.class
+br/edu/ceub/domain/Participante.class
+br/edu/ceub/service/ParticipanteService.class
+br/edu/ceub/repository/EventoRepository.class
+br/edu/ceub/controller/EventoController.class
+br/edu/ceub/controller/LocalController.class
+br/edu/ceub/DemoApplication.class
+br/edu/ceub/persistence/models/EventoModel.class
+br/edu/ceub/domain/Local.class
+br/edu/ceub/repository/LocalRepository.class
+br/edu/ceub/domain/Evento.class
